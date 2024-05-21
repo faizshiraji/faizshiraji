@@ -1,4 +1,4 @@
- 🔭 I’m currently working on CloudWell Limited
+ 🔭 I am currently working on my own company, ThinkerHouse.
 
 <!--
 **faizshiraji/faizshiraji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
