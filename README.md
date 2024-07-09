@@ -5,7 +5,7 @@
 </p>
 
 - I'm a **Seasoned IT Professional** | **Software Developer**
-- About me: **Founder of ThinkerHouse** | **Expert in Infrastructure & Cybersecurity** | **Passionate about Programming**
+- About me: **Founder of [ThinkerHouse](http://www.thinkerhouse.co)** | **Expert in Infrastructure & Cybersecurity** | **Passionate about Programming**
 - Currently **Driving Innovation at ThinkerHouse**
 - Founder of ThinkerHouse, focusing on:
   - Developing an advanced HRM system
