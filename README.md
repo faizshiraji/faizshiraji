@@ -3,10 +3,13 @@ Hi there, I'm Md. Faiz Shiraji Doller
 <p align="center">
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
 </p>
-I'm a System and Network Administrator | Software Developer
-About me: Expert in Infrastructure & Cybersecurity | CTO & Head of IT | Tech Enthusiast
-Currently Managing IT & Infrastructure at Shopfront Limited
-Willing to contribute more in System Administration and Software Development
+I'm a Seasoned IT Professional | Software Developer
+About me: Founder of ThinkerHouse | Expert in Infrastructure & Cybersecurity | Passionate about Programming
+Currently Driving Innovation at ThinkerHouse
+Founder of ThinkerHouse, focusing on:
+Developing an advanced HRM system
+Creating a healthtech hub for consumer healthcare solutions
+Contributing to Payment Aggregating application development
 Feel Free to Contact me.....
 <p align="center">
 	<a href="https://github.com/faizshiraji"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
