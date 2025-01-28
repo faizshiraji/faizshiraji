@@ -8,11 +8,12 @@
 - I'm a **Seasoned IT Professional** | **Software Developer**
 - About me: 
 **Director of [PaySenz](https://www.paysenz.com)** | **Passionate about Programming** | **Expert in Infrastructure & Cybersecurity**
-- Currently **Driving Innovation at PaySenz**
+- Currently **Driving Innovation at [PaySenz Limited](https://www.paysenz.com)**
 - Tech Director at **[PaySenz Limited](https://www.paysenz.com)** (Jan 2024 – Present)
 	- Designed and developed a robust Alert Management System for nationwide device monitoring.
-	- Built a B2B Mobile Recharge Platform tailored for Ghana.
+	- Built a B2B Mobile Recharge Platform tailored for Ghana client.
 	- Directed the development of an ISP Management System for UAE.
+	- Developing AI based Chatbot platform. 
 
 **Former Head of IT & Infrasture at [ShopUp](https://www.shopup.org) (May 2022 – Dec 2023)** | **Former CTO at [CloudWell Limited](https://www.paywellonline.com) (Apr 2016 – Dec 2023)**
 
