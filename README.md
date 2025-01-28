@@ -9,7 +9,7 @@
 - About me: 
 **Director of [PaySenz](https://www.paysenz.com)** | **Passionate about Programming** | **Expert in Infrastructure & Cybersecurity**
 - Currently **Driving Innovation at PaySenz**
-- Tech Director at PaySenz Limited (Jan 2024 – Present)
+- Tech Director at **[PaySenz Limited](https://www.paysenz.com)** (Jan 2024 – Present)
 	- Designed and developed a robust Alert Management System for nationwide device monitoring.
 	- Built a B2B Mobile Recharge Platform tailored for Ghana.
 	- Directed the development of an ISP Management System for UAE.
